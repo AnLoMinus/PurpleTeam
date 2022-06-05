@@ -57,5 +57,22 @@ PurpleTeam - Tools and more..
 
 ---
 
+# password extraction tool
+
+|                                                                        Project Description                                                                       |                  project address                  |      project name      |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------:|:----------------------:|
+| Various password extraction                                                                                                                                      | https://github.com/kerbyj/goLazagne               | goLazagne              |
+| Used to read common program passwords, such as Navicat, TeamViewer, FileZilla, WinSCP, etc.                                                                      | https://github.com/RowTeam/SharpDecryptPwd        | SharpDecryptPwd        |
+| Xshell, Xftp password decryption tool                                                                                                                            | https://github.com/JDArmy/SharpXDecrypt           | SharpXDecrypt          |
+| An export tool for decrypting browser data (password\|history\|cookie\|bookmark\|credit card\|download record), supporting mainstream browsers on all platforms. | https://github.com/moonD4rk/HackBrowserData/      | HackBrowserData        |
+| An identification code and verification code extraction tool for sunflower                                                                                       | https://github.com/wafinfo/Sunflower_get_Password | Sunflower_get_Password |
+| One-click CobaltStrike script to assist in grabbing 360 secure browser passwords and decryption gadgets                                                          | https://github.com/hayasec/360SafeBrowsergetpass  | 360SafeBrowsergetpass  |
+| BrowserGhost tool to grab browser passwords                                                                                                                      | https://github.com/QAX-A-Team/BrowserGhost        | BrowserGhost           |
+| win-brute-logon cracks any Microsoft Windows user password without permission                                                                                    | https://github.com/DarkCoderSc/win-brute-logon    | win-brute-logon        |
+| TeamViewer: Bypass anti-software tool to obtain Teamview password                                                                                                | https://github.com/wafinfo/TeamViewer             | TeamViewer             |
+| Xdecrypt Xshell Xftp password decryption                                                                                                                         | https://github.com/dzxs/Xdecrypt                  | Xdecrypt               |
+
+---
+
 
 https://reconshell.com/all-defense-tool/
